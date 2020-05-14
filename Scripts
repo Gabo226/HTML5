@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Erase una vez HTML</title>
+</head>
+<body style="color: #333; background-color: #CCCCCC;">
+<h1 style="font-family: Georgia; font-size: 3em;">Erase una vez HTML</h1>
+
+<h2 style="font-family: Georgia; font-size: 2em;">El padre</h2>
+
+<p style= "Arial, Helvetica, sans-serif;">El padre de la web, <strong>Tim Berners-Lee</strong>, es también el padre del lenguaje HTML.</p>
+
+<h2 style="font-family: Georgia; font-size: 2em;">La estandarización</h2>
+
+<p style= "Arial, Helvetica, sans-serif;">El lenguaje HTML está estandarizado por el W3c, el<em>World Wide Web Consortium</em>.</p>
+
+</body>
+</html>
+
